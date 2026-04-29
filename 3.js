@@ -6,5 +6,3 @@ function printList(arr){
 }
 printList(["Amanda","Tenessie","Talent","Rebecca"])
 
-apple=5
-console.log(apple)

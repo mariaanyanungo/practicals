@@ -6,4 +6,4 @@ function drawStars(n){
 
     }
      console.log(total)
-}drawStars(5)
+}drawStars(7)

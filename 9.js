@@ -3,8 +3,10 @@ function findChecker(arr,target){
     if(arr[i]===target){
         console.log("Found it!")
         break
+    }else{
+        console.log("Not Found")
     }
    
    }
        
-    }findChecker([1,2,3,4,5],3)
+    }findChecker(["Good","Food","Nice","gadget","Clothes"],"Nice")
