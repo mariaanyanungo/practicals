@@ -10,3 +10,4 @@ function findChecker(arr,target){
    }
        
     }findChecker(["Good","Food","Nice","gadget","Clothes"],"Nice")
+
